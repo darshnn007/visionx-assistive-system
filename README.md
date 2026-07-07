@@ -208,15 +208,4 @@ CONTRIBUTION
 - **Zalak Thakkar** — Sensor integration support, validation, and Code generation.
 - **Darshan Tita** — Code logic generation, algorithm review, and implementation support
   
---------------------------------------------------------------------------------
-AUTHOR
---------------------------------------------------------------------------------
 
-Shivam Thanki  
-ICT Engineer | Embedded Systems | Edge AI  
-
-## LICENSE
-
-MIT License
-
-GitHub: https://github.com/shivamthanki-coder
